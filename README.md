@@ -5,11 +5,11 @@ Spring Social PayPal is a Spring Social extension that provides support for the 
 
 To get started, first check-out the Spring Social PayPal Quickstart sample project:
 
-<https://github.com/felipealbertao/spring-social-paypal-quickstart-30x#readme>
+<https://github.com/paypalx/spring-social-paypal-quickstart-30x#readme>
 
 Then, learn how to use Spring Social PayPal in your application:
 
-<https://github.com/felipealbertao/spring-social-paypal/wiki/Quick-Start>
+<https://github.com/paypalx/spring-social-paypal/wiki/Quick-Start>
 
 ---------------------------------------------------------------------
 
